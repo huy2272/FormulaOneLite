@@ -1,4 +1,4 @@
-module main
+module github.com/huy2272/FormulaOneLite
 
 go 1.22.0
 
